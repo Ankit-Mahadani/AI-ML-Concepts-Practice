@@ -30,12 +30,6 @@ Welcome to this hands-on repository dedicated to practicing and mastering the co
   - Confusion Matrix
   - ROC-AUC Curve
 
-- 🧮 **Math Behind ML**
-  - Vector operations
-  - Matrix algebra
-  - Probability basics
-  - Gradient descent
-
 ---
 
 ## 🚀 Getting Started
